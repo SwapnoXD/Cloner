@@ -8,9 +8,9 @@ from pyrogram.types import *
 os.system("apt install git curl python3-pip ffmpeg -y")
 
 
-API_ID = ""
-API_HASH = ""
-TOKEN = ""
+API_ID = "25748479"
+API_HASH = "a2605f5312dcc313c73eb484ec25e84a"
+TOKEN = "5861293841:AAHeSaPzyAERL_BKqlRexAOrvO1d4_M7AGg"
 
 ZAID = Client("ZPyro", api_id=API_ID, api_hash=API_HASH, bot_token=TOKEN)
 
